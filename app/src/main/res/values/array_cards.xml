@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="card_images">
+        <item>@drawable/best_buy</item>
+        <item>@drawable/giftcard</item>
+        <item>@drawable/giftcard8</item>
+        <item>@drawable/home_depot</item>
+        <item>@drawable/itunes</item>
+        <item>@drawable/visa</item>
+    </array>
+</resources>

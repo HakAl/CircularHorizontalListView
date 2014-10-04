@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CircularHorizontalListView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_hlistview">HorizontalListView</string>
+    <string name="action_fancy_cover_flow">FancyCoverFlow</string>
+
+    <array name="card_titles">
+        <item>Best Buy</item>
+        <item>Giftcard</item>
+        <item>Giftcard</item>
+        <item>Home Depot</item>
+        <item>iTunes</item>
+        <item>Visa</item>
+    </array>
+</resources>
